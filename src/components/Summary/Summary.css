@@ -1,0 +1,24 @@
+.summary__title {
+    margin-top: 0.7em;
+    margin-bottom: 0.7em;
+}
+
+.summary__image {
+    width: 150px;
+}
+
+.summary__total {
+    text-align: left;
+    margin-top: 0.7em;;
+    margin-bottom: 0.7em;
+}
+
+.summary__total > .cart__subtotal {
+    text-align: left;
+}
+.summary__total > .cart__iva {
+    text-align: left;
+}
+.summary__total > .cart__total {
+    text-align: left;
+}
